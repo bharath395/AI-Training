@@ -1,0 +1,18 @@
+BIT CHATBOT
+                                        BITRA Chatbot – Rule-Based AI Chatbot
+
+BITRA is an AI-powered chatbot used by Bannari Amman Institute of Technology to assist website visitors.
+It is designed to answer common questions like admissions, courses, fees, hostel, and contact details.
+The chatbot uses Natural Language Processing (NLP) to understand user queries in simple English.
+It works mainly as a retrieval-based chatbot, giving answers from a predefined knowledge database.
+The system performs intent detection, identifying what the user is asking (e.g., admission, course, department).
+It has a knowledge base containing college-related information such as programs, departments, and facilities.
+The chatbot follows a fixed workflow: user → NLP → intent classification → answer selection → response.
+It improves website navigation by delivering quick answers instead of users searching manually.
+BITRA provides 24/7 instant support, reducing workload for the administrative helpdesk.
+The chatbot enhances student admission support, giving fast guidance to prospective students.
+It uses rule-based templates for answers to maintain accuracy and avoid confusion.
+The system is easy to use, with a simple chat window on the BIT website.
+BITRA does not use advanced generative AI like ChatGPT; it relies on matching questions to fixed answers.
+The chatbot has limitations — it cannot handle complex or unexpected queries effectively.
+Overall, the chatbot improves communication by offering quick, reliable, and automated responses on the BIT website.
